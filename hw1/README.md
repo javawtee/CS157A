@@ -19,10 +19,9 @@ b. Account and Roles > *enter your password* which will used to login as **root*
 For Windows, configure environment variables by adding to PATH in System Variables: <mysql_folder>/bin
 To test if installation is correct:
 - Open cmd and run: ``` mysql -u root -p ```
-- Then, type your password
-**Expected output**
-![alt text][output]
-[output]: https://github.com/javawtee/CS157A/edit/master/hw1/mysql-output.jpg
+- Then, type your password<br/><br/>
+**Expected output**<br/>
+![alt text](https://github.com/javawtee/CS157A/tree/master/hw1/mysql-output.jpg ":(")
 
 ## How to run Node.js (required [Node.js](https://nodejs.org/en/download/) installation)
 Open cmd (Windows) or terminal (Linux/Ubuntu/Mac)
