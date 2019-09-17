@@ -1,0 +1,10 @@
+{
+    "name": "cs157-hw1",
+    "description": "3-tier architecture",
+    "author": "Thong Le",
+    "version": "0.0.1",
+    "dependencies": {
+        "express": "^4.17.1",
+        "mysql": "latest"
+    }
+}
